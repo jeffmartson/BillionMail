@@ -17,7 +17,7 @@
 		"@vueuse/core": "^13.0.0",
 		"@wangeditor/core": "^1.1.19",
 		"@wangeditor/editor": "5.1.23",
-		"axios": "^1.8.4",
+		"axios": "^1.13.5",
 		"date-fns": "^4.1.0",
 		"echarts": "^5.6.0",
 		"lodash-es": "^4.17.21",
